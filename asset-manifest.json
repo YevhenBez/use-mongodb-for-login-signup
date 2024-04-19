@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/use-mongodb-for-login-signup/static/css/main.7acaea2f.css",
-    "main.js": "/use-mongodb-for-login-signup/static/js/main.07d3183d.js",
+    "main.js": "/use-mongodb-for-login-signup/static/js/main.4b941599.js",
     "index.html": "/use-mongodb-for-login-signup/index.html",
     "main.7acaea2f.css.map": "/use-mongodb-for-login-signup/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/use-mongodb-for-login-signup/static/js/main.07d3183d.js.map"
+    "main.4b941599.js.map": "/use-mongodb-for-login-signup/static/js/main.4b941599.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.4b941599.js"
   ]
 }
