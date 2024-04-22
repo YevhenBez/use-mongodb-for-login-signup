@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is backend for project use-mongodb-for-login-signup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YevhenBez/use-mongodb-for-login-signup.git"
+  },
+  "keywords": [
+    "web",
+    "application",
+    "react",
+    "node.js",
+    "mongodb"
+  ],
+  "author": "YevhenBez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YevhenBez/use-mongodb-for-login-signup/issues"
+  },
+  "homepage": "https://github.com/YevhenBez/use-mongodb-for-login-signup#readme"
+}
