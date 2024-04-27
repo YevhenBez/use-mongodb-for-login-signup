@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/YevhenBez/use-mongodb-for-login-signup/issues"
   },
-  "homepage": "https://github.com/YevhenBez/use-mongodb-for-login-signup#readme"
+  "homepage": "https://github.com/YevhenBez/use-mongodb-for-login-signup#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
